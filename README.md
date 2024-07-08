@@ -1,7 +1,7 @@
 # Pizza store
 ## Authors
 David Zaydenberg, Davidzay@edu.hac.ac.il<br>
-Ron Elian, Ronel@eud.hac.ac.il<br>
+Ron Elian, Ronel@edu.hac.ac.il<br>
 
 # PizzaHot
 
