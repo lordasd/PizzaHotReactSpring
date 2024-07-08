@@ -1,4 +1,4 @@
-# Pizza store - Internet Programming Course
+# Pizza store
 ## Author
 David Zaydenberg, Davidzay@edu.hac.ac.il<br>
 
