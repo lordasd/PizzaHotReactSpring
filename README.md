@@ -1,9 +1,6 @@
 # Pizza store - Internet Programming Course
-## Authors
-
-Name and email:<br>
-David Zaydenberg, Davidzay@edu.hac.ac.il, 319323721<br>
-Ron Elian, Ronel@edu.hac.ac.il, 208834945
+## Author
+David Zaydenberg, Davidzay@edu.hac.ac.il<br>
 
 # PizzaHot
 
